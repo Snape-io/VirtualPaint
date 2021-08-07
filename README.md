@@ -4,4 +4,4 @@ In this we have 6 colour options to choose from. The index finger is used as the
 
 
 
-![alt text](https://github.com/Snape-io/VirtualPaint/blob/main/v1.png)
+![alt text](https://github.com/Snape-io/VirtualPaint/blob/main/v4.png)
